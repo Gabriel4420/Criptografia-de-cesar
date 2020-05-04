@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Criptografia_de_Cesar", "Criptografia_de_Cesar.csproj", "{3870E6B2-1AD4-46C3-87C9-416B6C365F8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3870E6B2-1AD4-46C3-87C9-416B6C365F8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3870E6B2-1AD4-46C3-87C9-416B6C365F8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3870E6B2-1AD4-46C3-87C9-416B6C365F8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3870E6B2-1AD4-46C3-87C9-416B6C365F8F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3207551-297F-4222-A697-C7C2069DB129}
+	EndGlobalSection
+EndGlobal

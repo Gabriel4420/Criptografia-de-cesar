@@ -1,0 +1,13 @@
+C:\Users\usuario\Source\Repos\Criptografia_de_Cesar\bin\Debug\netcoreapp3.1\Criptografia_de_Cesar.exe
+C:\Users\usuario\Source\Repos\Criptografia_de_Cesar\bin\Debug\netcoreapp3.1\Criptografia_de_Cesar.deps.json
+C:\Users\usuario\Source\Repos\Criptografia_de_Cesar\bin\Debug\netcoreapp3.1\Criptografia_de_Cesar.runtimeconfig.json
+C:\Users\usuario\Source\Repos\Criptografia_de_Cesar\bin\Debug\netcoreapp3.1\Criptografia_de_Cesar.runtimeconfig.dev.json
+C:\Users\usuario\Source\Repos\Criptografia_de_Cesar\bin\Debug\netcoreapp3.1\Criptografia_de_Cesar.dll
+C:\Users\usuario\Source\Repos\Criptografia_de_Cesar\bin\Debug\netcoreapp3.1\Criptografia_de_Cesar.pdb
+C:\Users\usuario\Source\Repos\Criptografia_de_Cesar\obj\Debug\netcoreapp3.1\Criptografia_de_Cesar.csprojAssemblyReference.cache
+C:\Users\usuario\Source\Repos\Criptografia_de_Cesar\obj\Debug\netcoreapp3.1\Criptografia_de_Cesar.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Source\Repos\Criptografia_de_Cesar\obj\Debug\netcoreapp3.1\Criptografia_de_Cesar.AssemblyInfoInputs.cache
+C:\Users\usuario\Source\Repos\Criptografia_de_Cesar\obj\Debug\netcoreapp3.1\Criptografia_de_Cesar.AssemblyInfo.cs
+C:\Users\usuario\Source\Repos\Criptografia_de_Cesar\obj\Debug\netcoreapp3.1\Criptografia_de_Cesar.dll
+C:\Users\usuario\Source\Repos\Criptografia_de_Cesar\obj\Debug\netcoreapp3.1\Criptografia_de_Cesar.pdb
+C:\Users\usuario\Source\Repos\Criptografia_de_Cesar\obj\Debug\netcoreapp3.1\Criptografia_de_Cesar.genruntimeconfig.cache
